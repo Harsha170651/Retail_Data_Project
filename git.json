@@ -1,0 +1,33 @@
+[
+    {
+        "p_rel_url" : "Harsha170651/Retail_Data_Project/refs/heads/main/tbl_account.csv",
+        "p_sink_folder" : "tbl_account",
+        "p_sink_file" : "tbl_account.csv"
+    },
+    {
+        "p_rel_url" : "Harsha170651/Retail_Data_Project/refs/heads/main/tbl_assets.csv",
+        "p_sink_folder" : "tbl_assets",
+        "p_sink_file" : "tbl_assets.csv"
+    },
+    {
+        "p_rel_url" : "Harsha170651/Retail_Data_Project/refs/heads/main/tbl_demand.csv",
+        "p_sink_folder" : "tbl_demand",
+        "p_sink_file" : "tbl_demand.csv"
+    },
+    {
+        "p_rel_url" : "Harsha170651/Retail_Data_Project/refs/heads/main/tbl_product.csv",
+        "p_sink_folder" : "tbl_product",
+        "p_sink_file" : "tbl_product.csv"
+    },
+    {
+        "p_rel_url" : "Harsha170651/Retail_Data_Project/refs/heads/main/tbl_social_media.csv",
+        "p_sink_folder" : "tbl_social_media",
+        "p_sink_file" : "tbl_social_media.csv"
+    },
+    {
+        "p_rel_url" : "Harsha170651/Retail_Data_Project/refs/heads/main/tbl_web_activity.csv",
+        "p_sink_folder" : "tbl_web_activity",
+        "p_sink_file" : "tbl_web_activity.csv"
+    }
+  
+]
